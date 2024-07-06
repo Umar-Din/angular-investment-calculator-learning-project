@@ -4,3 +4,7 @@ export interface InvestmentInput {
     expectedReturn:number;
     annualInvestment:number
 }
+
+export interface InvestmentOutput {
+    
+}
